@@ -1,0 +1,27 @@
+.data-month {
+	color: rgb(0, 0, 0);
+	font-size: large;
+	text-align: center;
+	font-size: 1.3rem;
+	margin-bottom: 0.5rem;
+	font-weight: bold;
+}
+.data-day {
+	color: rgb(0, 0, 0);
+	margin-right: 3px;
+}
+.data-year {
+	color: rgb(0, 0, 0);
+	margin-right: 3px;
+}
+.list {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* background: rgb(54, 54, 54); */
+	/* border-radius: 6px; */
+}
+.expense-item__date {
+	width: 25%;
+	padding: 0.3rem;
+}
