@@ -21,14 +21,14 @@
 	justify-content: flex-start;
 	flex: 1;
 	align-items: center;
-	background: rgb(54, 54, 54);
+	background: rgb(255, 255, 255);
 	padding: 0.3rem;
 	border-radius: 6px;
 	margin-left: 10px;
 }
 
 .expense-item h2 {
-	color: #ffffff;
+	color: #000000;
 	font-size: 1.2rem;
 	flex: 1;
 
@@ -38,7 +38,7 @@
 .expense-item__price {
 	font-size: 1rem;
 	font-weight: bold;
-	color: rgb(0, 0, 0);
+	color: rgb(56, 56, 56);
 	background-color: #ffffff;
 	padding: 0.5rem;
 	border-radius: 5px;
