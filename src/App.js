@@ -2,6 +2,8 @@ import Expenses from './components/Expenses/Expenses';
 import NewExpsense from './components/NewExpense/NewExpense';
 
 const App = () => {
+	//Test
+	console.log('object');
 	const expenses = [
 		{
 			id: 'e11',
